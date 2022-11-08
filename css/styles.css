@@ -91,3 +91,8 @@ table {
     padding: 10px;
     border: solid #dddddd 1px;
 }
+
+td {
+    margin: 15px;
+    padding: 25px;
+}
